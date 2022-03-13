@@ -40,3 +40,4 @@ yarn-debug.log*
 .yarn-integrity
 app/views/layouts/mailer.html.erb
 Rakefile
+test/
